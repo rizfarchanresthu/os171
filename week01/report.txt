@@ -1,0 +1,1 @@
+in this week we learned how to use git on PuTTY. We also learned several PuTTY command, such as cd rm etc.
