@@ -1,0 +1,12 @@
+w01-170213-17-PS-About: Doing Task01
+w01-170213-17-PS-About: Doing Task01
+w01-170213-18-PS-About: Doing Task01
+w01-170214-13-LR-About: Copyright, Free Software, Basic Scripting From: Lecturer
+w01-170214-13-LR-About: Copyright, Free Software, Basic Scripting From: Lecturer
+w01-170214-14-LR-About: Copyright, Free Software, Basic Scripting From: Lecturer
+w01-170214-14-LR-About: Copyright, Free Software, Basic Scripting From: Lecturer
+w01-170214-15-DS-About: Copyright, Free Software, Basic Scripting
+w01-170216-13-LR-About: Basic Scripting, Regex, C From: Lecturer
+w01-170216-13-LR-About: Basic Scripting, Regex, C From: Lecturer
+w01-170216-14-PS-About: Basic Scripting, Regex, C, exercises in class
+w01-170216-14-LR-About: Basic Scripting, Regex, C From: Lecturer
